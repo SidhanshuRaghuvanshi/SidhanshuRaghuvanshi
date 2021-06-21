@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning         : Docker and Kubernetes
 - 💞️ I’m looking to collaborate on  :  Java, SpringBoot, Microservices, Angular projects
 - 📫 How to reach me                : sidhanshuraghuvanshi1@gmail.com
-- 💻 Connecting Dots                : Whole World is following a pattern...We just need to find different pattern to succeed. 
+- 💻 Connecting Dots                : Whole World is following a pattern...We just need to find different patterns to succeed. 
 
 <!---
 SidhanshuRaghuvanshi/SidhanshuRaghuvanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

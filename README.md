@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SidhanshuRaghuvanshi
 - 👀 I’m interested in              : Java Fullstack Development
-- 🌱 I’m currently learning         : Docker and Kubernetes
+- 🌱 I’m currently learning         : Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on  :  Java, SpringBoot, Microservices, Angular projects
 - 📫 How to reach me                : sidhanshuraghuvanshi1@gmail.com
 - 💻 Connecting Dots                : Whole World is following a pattern...We just need to find different patterns to succeed. 
